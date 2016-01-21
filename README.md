@@ -1,0 +1,2 @@
+# DemoDoubleSmartLayout
+此Demo皆在完成两层SmartTabLayout，在顶层ViewPager的fragment中，再包装一层SmartTabLayout
